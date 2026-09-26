@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML projects and real-world applications<br>👯 I’m looking to collaborate on AI, ML and innovative projects<br>🤝 I’m looking for help with advanced Machine Learning and development<br>🌱 I’m currently learning Machine Learning, Deep Learning and Generative AI<br>💬 Ask me about Python, AI/ML, hackathons and project development<br>⚡ Fun fact: I’m always looking for an idea that can be turned into a working project
+🎓 I’m currently pursuing B.Tech in Artificial Intelligence and Machine Learning<br>🔭 I’m currently working on AI/ML projects and real-world applications<br>👯 I’m looking to collaborate on AI, ML and innovative projects<br>🤝 I’m looking for help with advanced Machine Learning and development<br>🌱 I’m currently learning Machine Learning, Deep Learning and Generative AI<br>💬 Ask me about Python, AI/ML, hackathons and project development<br>⚡ Fun fact: I’m always looking for an idea that can be turned into a working project
 
 
 ## 🌐 Socials:
